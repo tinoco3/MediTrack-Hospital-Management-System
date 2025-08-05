@@ -419,6 +419,7 @@ WHERE EXISTS (
 );
 ```
 <img width="278" height="145" alt="Screenshot 2025-08-05 at 4 19 10 PM" src="https://github.com/user-attachments/assets/8affb6a5-85f3-44d6-b3e9-da1bba1c6d7b" />
+
 ## Query 14: Standard-Dosage Patient Report
 
 **Description**:  
